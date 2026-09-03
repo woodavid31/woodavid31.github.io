@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science and Engineering at the University of Michigan, advised by Prof. Danai Koutra. Previously, I received my M.S. and B.S. degrees from Sungkyunkwan University, where I worked with Prof. Hogun Park.
+I am a first-year Ph.D. student in Computer Science and Engineering at the University of Michigan, advised by Prof. Danai Koutra. Previously, I received my M.S. and B.S. degrees from Sungkyunkwan University, where I worked with Prof. Hogun Park.
 
 My research interests broadly lie in **representation learning and reasoning**, with a particular focus on **integrating graph-structured knowledge and representations with large language models**.
+
+I am currently seeking research internship opportunities for Summer 2027. Please feel free to reach out!
 
 Selected Publications
 ======
