@@ -21,6 +21,33 @@
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
 <style>
+.greedy-nav {
+  padding-right: 5rem;
+}
+.greedy-nav button {
+  right: 2.4rem;
+}
+.greedy-nav .masthead__theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  z-index: 101;
+}
+.greedy-nav .masthead__theme-toggle a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2.5rem;
+  margin: 0;
+  padding: 0;
+  color: var(--global-masthead-link-color);
+  cursor: pointer;
+}
+.greedy-nav .masthead__theme-toggle a:hover {
+  color: var(--global-masthead-link-color-hover);
+}
 .publications-list {
   margin-top: 0.75em;
 }
