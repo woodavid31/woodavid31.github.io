@@ -22,12 +22,22 @@ Selected Publications
     <p class="publication-authors">Hyunju Kang*, <strong>Woohyun Lee*</strong>, Jaewon Kim, and Hogun Park</p>
     <p class="publication-venue">The Fourteenth International Conference on Learning Representations (ICLR), 2026</p>
     <p class="publication-note">* Equal contribution</p>
+    <p class="publication-links">
+      <a href="https://arxiv.org/pdf/2605.20284">Paper</a>
+      <span aria-hidden="true">/</span>
+      <a href="https://github.com/woodavid31/JUDO">Code</a>
+    </p>
   </article>
 
   <article class="publication-entry">
     <h3>Self-supervised Adversarial Purification for Graph Neural Networks</h3>
     <p class="publication-authors"><strong>Woohyun Lee</strong> and Hogun Park</p>
     <p class="publication-venue">Proceedings of the 42nd International Conference on Machine Learning (ICML), 2025</p>
+    <p class="publication-links">
+      <a href="https://arxiv.org/pdf/2605.23239">Paper</a>
+      <span aria-hidden="true">/</span>
+      <a href="https://github.com/woodavid31/GPR-GAE">Code</a>
+    </p>
   </article>
 </div>
 
