@@ -11,7 +11,7 @@ I am a first-year Ph.D. student in Computer Science and Engineering at the Unive
 
 My research interests broadly lie in **representation learning and reasoning**, with a particular focus on **integrating graph-structured knowledge and representations with large language models**.
 
-I am currently seeking research internship opportunities for Summer 2027. Please feel free to reach out!
+My current research focuses on understanding how recurrent Transformers can learn and reason over graph structures represented as sequences. I'm particularly interested in how iterative computation helps with structural reasoning and generalization.
 
 Selected Publications
 ======
